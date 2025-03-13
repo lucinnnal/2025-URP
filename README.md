@@ -1,6 +1,7 @@
 2025 URP Project
 
-Title : 동작 키포인트를 이용한 발표자 행동 평가!
+Title
+- 동작 키포인트를 이용한 발표자 행동 평가!
 
 Methods
 
